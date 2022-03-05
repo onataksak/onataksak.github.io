@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+Here is my CV. I also added a [pdf](nurettinonataksak.space) version.
+
+<!-- 
 {% include base_path %}
 
 Education
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
